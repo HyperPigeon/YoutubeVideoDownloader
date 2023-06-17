@@ -25,7 +25,9 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "permissions": ["WRITE_EXTERNAL_STORAGE","READ_EXTERNAL_STORAGE"]
+      "permissions": ["WRITE_EXTERNAL_STORAGE","READ_EXTERNAL_STORAGE"],
+      "package": "net.hyper_pigeon.YoutubeVideoDownloader",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
